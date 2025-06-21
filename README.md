@@ -1,5 +1,4 @@
-// About the project
-A backend system to manage inventory management
+// About the project: A backend system to manage inventory management
 
 // How to use
 1. Clone the repositoruy
